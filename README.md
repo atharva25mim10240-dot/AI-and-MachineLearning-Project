@@ -194,7 +194,7 @@ This system can be useful for:
 ## Author
 **Atharva Dwivedi**
 
-- **Registration Number:** 25III10240
+- **Registration Number:** 25MIM10240
 - **Institution:** VIT Bhopal University
 - **Program:** Integrated M.Tech AI
 
